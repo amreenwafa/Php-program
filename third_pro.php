@@ -7,4 +7,5 @@ if($number%2==0)
    else  
    {  
     echo "$number is Odd Number";  
-    
+}   
+?>  
