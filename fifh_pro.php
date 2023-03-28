@@ -17,4 +17,6 @@ if ($div_count<3)
 echo $num." , ";  
 $count=$count+1;  
 }  
+$num=$num+1;  
+}  
 ?>
