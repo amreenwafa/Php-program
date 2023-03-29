@@ -8,7 +8,7 @@ for ($i =0; $i<=strlen($num);$i++)   //strlen($num)" is a function that returns 
  {  
     $rem=$num%10;          //1459%10=9    it gives remainder 
     $sum = $sum + $rem; 
-    $num=$num/10;  
+    $num=$num/10;         //1459/10=145    it gives divisor
 }  
 echo "Sum of digits 14597 is $sum";  
 ?> 
