@@ -3,7 +3,8 @@
 <?php  
 $num = 14597;    //insialise the value of number 
 $sum=0; $rem=0;          //initially sum and rem is 0
-for ($i =0; $i<=strlen($num);$i++)  
+for ($i =0; $i<=strlen($num);$i++)   //strlen($num)" is a function that returns the length of the string in the variable $num.
+                                     // For example, if $num contains the string "23654", strlen($num) would return 5 
  {  
     $rem=$num%10;  
     $sum = $sum + $rem; 
