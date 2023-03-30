@@ -7,6 +7,6 @@ if($number%2==0)        // % gives remainder if remainder is equal to 0 even oth
    }  
    else  
    {  
-    echo "$number is Odd Number";  
+    echo "$number is Odd Number"; 
 }   
 ?>  
