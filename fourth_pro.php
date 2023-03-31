@@ -6,7 +6,7 @@ while ($count < 15 )
 $div_count=0;  // initially divide count is 0
 for ( $i=1; $i<=$num; $i++)  
 {  
-if (($num%$i)==0)  
+if (($num%$i)==0)  //if remainder is zero than div count ++
 {  
 $div_count++; 
 }  
