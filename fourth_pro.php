@@ -11,7 +11,7 @@ if (($num%$i)==0)  //if remainder is zero than div count ++
 $div_count++; 
 }  
 }  
-if ($div_count<3)  
+if ($div_count<3) //and if divcount  is less than 3 then
 {  
 echo $num." , ";  
 $count=$count+1;  
