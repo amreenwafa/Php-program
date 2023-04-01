@@ -1,4 +1,4 @@
-Prime number in PHP
+//Prime number in PHP
 <?php
 $count = 0;  
 $num = 2;  
