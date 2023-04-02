@@ -1,3 +1,4 @@
+//prime number
 <?php  
 $count = 0;  //variable count initialize with 0 
 $num = 2;    
