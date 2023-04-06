@@ -9,7 +9,7 @@
                <br> <br>
             Age: <input type "text" name="age">
                 <br> <br>
-            <input type="submit" value="Submit">       
+            <input type="submit" name="Save">       
         </form>
     </body>
 </html>
