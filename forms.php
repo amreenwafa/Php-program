@@ -4,10 +4,12 @@
     </head>
     <body>
         <form>
-            Name: <input type "text" name "fname">
+            Name: <input type "text" name= "fname">
             <br> <br>
-            Age : <input type "text" name "age">
+            Age : <input type "text" name="age">
             <br> <br>
-            <input type "submit" name "save">
+            <input type "submit" name= "save">
+            
+       </form>
     </body>
 </html>
