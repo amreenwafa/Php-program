@@ -8,8 +8,7 @@
             <br> <br>
             Age : <input type "text" name="age">
             <br> <br>
-            <input type "submit" name= "save">
-            
+            <input type "submit" value= "save">
        </form>
     </body>
 </html>
